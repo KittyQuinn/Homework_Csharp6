@@ -1,0 +1,15 @@
+/Users/kataryzova/Desktop/HOMEWORK6/Task41/bin/Debug/net6.0/Task41
+/Users/kataryzova/Desktop/HOMEWORK6/Task41/bin/Debug/net6.0/Task41.deps.json
+/Users/kataryzova/Desktop/HOMEWORK6/Task41/bin/Debug/net6.0/Task41.runtimeconfig.json
+/Users/kataryzova/Desktop/HOMEWORK6/Task41/bin/Debug/net6.0/Task41.dll
+/Users/kataryzova/Desktop/HOMEWORK6/Task41/bin/Debug/net6.0/Task41.pdb
+/Users/kataryzova/Desktop/HOMEWORK6/Task41/obj/Debug/net6.0/Task41.csproj.AssemblyReference.cache
+/Users/kataryzova/Desktop/HOMEWORK6/Task41/obj/Debug/net6.0/Task41.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kataryzova/Desktop/HOMEWORK6/Task41/obj/Debug/net6.0/Task41.AssemblyInfoInputs.cache
+/Users/kataryzova/Desktop/HOMEWORK6/Task41/obj/Debug/net6.0/Task41.AssemblyInfo.cs
+/Users/kataryzova/Desktop/HOMEWORK6/Task41/obj/Debug/net6.0/Task41.csproj.CoreCompileInputs.cache
+/Users/kataryzova/Desktop/HOMEWORK6/Task41/obj/Debug/net6.0/Task41.dll
+/Users/kataryzova/Desktop/HOMEWORK6/Task41/obj/Debug/net6.0/refint/Task41.dll
+/Users/kataryzova/Desktop/HOMEWORK6/Task41/obj/Debug/net6.0/Task41.pdb
+/Users/kataryzova/Desktop/HOMEWORK6/Task41/obj/Debug/net6.0/Task41.genruntimeconfig.cache
+/Users/kataryzova/Desktop/HOMEWORK6/Task41/obj/Debug/net6.0/ref/Task41.dll
